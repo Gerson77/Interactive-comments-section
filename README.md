@@ -30,11 +30,10 @@ Users should be able to:
 
 ![](./src/assets/full-project-comments.png)
 
-
 ### Links
 
 - Solution URL: [Interactive-comments-section](https://github.com/Gerson77/Interactive-comments-section)
-- Live Site URL: [Interactive-comments-section Live](https://your-live-site-url.com)
+- Live Site URL: [Interactive-comments-section Live](https://interactive-comments-section-rouge.vercel.app/)
 
 ### Built with
 
@@ -43,7 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [portifolio](https://www.your-site.com)
+- Website - [portifolio](https://portifolio-puce-theta-49.vercel.app/)
 - Frontend Mentor - [@Gerson77](https://www.frontendmentor.io/profile/Gerson77)
-- Linkedin - [@yourusername](https://linkedin/in/gerson-santos-silva)
+- Linkedin - [gerson-santos](https://www.linkedin.com/in/gerson-santos-silva)
 

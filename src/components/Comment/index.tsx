@@ -47,11 +47,11 @@ export default function Comment({
         }`}
       >
         <div className="w-[100px] md:w-[42px] h-10 md:h-[90px] flex justify-between md:justify-center items-center md:flex-col gap-2 p-3 bg-gray-100 rounded-lg">
-          <img src="/src/assets/images/icon-plus.svg" className="w-3 h-3 cursor-pointer" />
+          <img src="https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552309/interactive-commets-section/icon-plus_hyngap.svg" className="w-3 h-3 cursor-pointer" />
           <span className="text-[#5457b6] font-medium text-md">
             {comment.score}
           </span>
-          <img src="/src/assets/images/icon-minus.svg" className="w-3 h-1 cursor-pointer" />
+          <img src="https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552309/interactive-commets-section/icon-minus_ho9jme.svg" className="w-3 h-1 cursor-pointer" />
         </div>
 
         <div className="flex gap-2 flex-col w-full relative">
@@ -70,7 +70,7 @@ export default function Comment({
                   className="flex items-center gap-2 text-red-400 font-medium cursor-pointer hover:opacity-50"
                   onClick={() => deleteComment(comment.id)}
                 >
-                  <img src="/src/assets/images/icon-delete.svg" />
+                  <img src="https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552308/interactive-commets-section/icon-delete_v7rxok.svg" />
                   Delete
                 </button>
 
@@ -89,7 +89,7 @@ export default function Comment({
                       setEditText(comment.content);
                     }}
                   >
-                    <img src="/src/assets/images/icon-edit.svg" />
+                    <img src="https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552308/interactive-commets-section/icon-edit_v2lnpw.svg" />
                     Edit
                   </button>
                 )}
@@ -99,7 +99,7 @@ export default function Comment({
                 className="flex items-center gap-2 cursor-pointer hover:opacity-50 absolute -bottom-12 right-0 md:relative md:bottom-0"
                 onClick={handleReply}
               >
-                <img src="/src/assets/images/icon-reply.svg" />
+                <img src="https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552309/interactive-commets-section/icon-reply_hqhcwt.svg" />
                 <span className="text-[#5457b6] font-medium">Reply</span>
               </div>
             )}

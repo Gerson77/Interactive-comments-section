@@ -1,8 +1,8 @@
 {
   "currentUser": {
     "image": { 
-      "png": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552342/interactive-commets-section/image-juliusomo_rt1ioz.png",
-      "webp": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552343/interactive-commets-section/image-juliusomo_xebdil.webp"
+      "png": "./src/assets/images/avatars/image-juliusomo.png",
+      "webp": "./src/assets/images/avatars/image-juliusomo.webp"
     },
     "username": "juliusomo"
   },
@@ -14,8 +14,8 @@
       "score": 12,
       "user": {
         "image": { 
-          "png": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552341/interactive-commets-section/image-amyrobson_dr7ct9.webp",
-          "webp": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552341/interactive-commets-section/image-amyrobson_ftynd6.png"
+          "png": "./src/assets/images/avatars/image-amyrobson.png",
+          "webp": "./src/assets/images/avatars/image-amyrobson.webp"
         },
         "username": "amyrobson"
       },
@@ -28,8 +28,8 @@
       "score": 5,
       "user": {
         "image": { 
-          "png": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552343/interactive-commets-section/image-maxblagun_ylnrus.png",
-          "webp": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552345/interactive-commets-section/image-maxblagun_p03qhr.webp"
+          "png": "./src/assets/images/avatars/image-maxblagun.png",
+          "webp": "./src/assets/images/avatars/image-maxblagun.webp"
         },
         "username": "maxblagun"
       },
@@ -42,8 +42,8 @@
           "replyingTo": "maxblagun",
           "user": {
             "image": { 
-              "png": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552345/interactive-commets-section/image-ramsesmiron_bzyu09.png",
-              "webp": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552346/interactive-commets-section/image-ramsesmiron_c77ebh.webp"
+              "png": "./src/assets/images/avatars/image-ramsesmiron.png",
+              "webp": "./src/assets/images/avatars/image-ramsesmiron.webp"
             },
             "username": "ramsesmiron"
           }
@@ -56,8 +56,8 @@
           "replyingTo": "ramsesmiron",
           "user": {
             "image": { 
-              "png": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552342/interactive-commets-section/image-juliusomo_rt1ioz.png",
-              "webp": "https://res.cloudinary.com/mycompanyhosts/image/upload/v1751552343/interactive-commets-section/image-juliusomo_xebdil.webp"
+              "png": "./src/assets/images/avatars/image-juliusomo.png",
+              "webp": "./src/assets/images/avatars/image-juliusomo.webp"
             },
             "username": "juliusomo"
           }
